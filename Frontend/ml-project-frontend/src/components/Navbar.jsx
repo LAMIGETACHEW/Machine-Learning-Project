@@ -39,7 +39,7 @@ export default function Navbar() {
               <Link to="/" className="flex items-center space-x-2 group">
                 <div className="w-10 h-10 bg-white rounded-full flex items-center justify-center transform group-hover:rotate-12 transition-transform duration-300">
                   <span className="text-2xl font-bold bg-gradient-to-r from-purple-600 to-blue-400 bg-clip-text text-transparent">
-                    DGLL
+                    <h1>DGLL</h1>
                   </span>
                 </div>
                 <span className="text-white font-bold text-xl tracking-tight">
